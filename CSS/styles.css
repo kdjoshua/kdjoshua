@@ -1,0 +1,43 @@
+body{
+  margin:0;
+  margin-top: 0;
+  padding-top: 0;
+}
+.container{
+  margin-top: 0;
+  height: 100vh;
+  background-color: black;
+}
+/* @keyframes kennedy{
+  0%{
+    background-image: url(49068276593_864e9697a2_k.jpg);
+  }
+   80%{
+    background-image: url(49068700676_2ed0e52f02_k.jpg);
+  }
+} */
+.inputt{
+  width: 45%;
+  height: 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+}
+.submitbtn{
+  width: 100px;
+  height:35px;
+  color: red;
+  background-color: dodgerblue;
+  border: none;
+}
+form{
+  padding-top: 10px;
+}
+h1{
+  color: white;
+  margin-top:0;
+padding-top: 50px;}
