@@ -26,6 +26,7 @@ body{
   border-left: none;
   border-right: none;
   background-color: transparent;
+  color: rgb(255, 0, 0);
 }
 .submitbtn{
   width: 100px;
