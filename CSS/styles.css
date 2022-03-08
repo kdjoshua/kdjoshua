@@ -5,7 +5,7 @@ body{
 }
 .container{
   margin-top: 0;
-  height: 100vh;
+  height: auto;
   background-color: black;
 }
 /* @keyframes kennedy{
@@ -17,7 +17,7 @@ body{
   }
 } */
 .inputt{
-  width: 45%;
+  width: 85%;
   height: 30px;
   border-radius: 5px;
   text-decoration: none;
