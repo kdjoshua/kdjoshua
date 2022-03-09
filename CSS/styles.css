@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+body{
+  background-image:url('OPTIONS (1).jpg');
+  background-position: center;
+  background-size: cover;
+}
+.inputt{
+  width: 90%;
+  height: 50px;
+}
 .submitbtn{
   width: 120px;
   height: 50px;
