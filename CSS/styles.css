@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 body{
-   background-image: url('knd.jpg'); 
+   background-image: url('OPTIONS (1).jpg'); 
+   background-size: cover;
   margin-top: 0;
   padding-top: 0;
 }
